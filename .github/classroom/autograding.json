@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Ex01",
+      "setup": "make",
+      "run": "./appTests Ex01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 50
+    },
+    {
+      "name": "Ex02",
+      "setup": "make",
+      "run": "./appTests Ex02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 50
+    }
+  ]
+}
